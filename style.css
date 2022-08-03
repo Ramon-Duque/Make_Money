@@ -1,0 +1,40 @@
+.Penny{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: coral;
+    display: flex;
+    float: right;
+}
+
+.Nickel {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: silver;
+    display: flex;
+    float: right;
+
+}
+
+.Dime {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: silver;
+    display: flex;
+    float: right;
+}
+
+.Quarter {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: silver;
+    display: flex;
+    float: right;
+}
+
+
+
+
